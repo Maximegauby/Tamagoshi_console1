@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-02T21:06:29.054574900Z</date>
+  <millis>1617397589054</millis>
+  <nanos>574900</nanos>
+  <sequence>0</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>initialisation</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi : 1</message>
+</record>
+<record>
+  <date>2021-04-02T21:06:30.742570500Z</date>
+  <millis>1617397590742</millis>
+  <nanos>570500</nanos>
+  <sequence>1</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>initialisation</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le nom: 0 qui sera un gros joueur.</message>
+</record>
+<record>
+  <date>2021-04-02T21:06:37.219352200Z</date>
+  <millis>1617397597219</millis>
+  <nanos>352200</nanos>
+  <sequence>2</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>WARNING</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur n'a rien saisi.</message>
+</record>
+<record>
+  <date>2021-04-02T21:06:50.611337700Z</date>
+  <millis>1617397610611</millis>
+  <nanos>337700</nanos>
+  <sequence>3</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>WARNING</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur n'a rien saisi.</message>
+</record>
+<record>
+  <date>2021-04-02T21:06:57.626999700Z</date>
+  <millis>1617397617626</millis>
+  <nanos>999700</nanos>
+  <sequence>4</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>WARNING</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur n'a rien saisi.</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:12.995790100Z</date>
+  <millis>1617397632995</millis>
+  <nanos>790100</nanos>
+  <sequence>5</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 1</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:12.996778700Z</date>
+  <millis>1617397632996</millis>
+  <nanos>778700</nanos>
+  <sequence>6</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>WARNING</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi un index de Tamagoshi inexistant.</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:16.914193100Z</date>
+  <millis>1617397636914</millis>
+  <nanos>193100</nanos>
+  <sequence>7</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:22.418725200Z</date>
+  <millis>1617397642418</millis>
+  <nanos>725200</nanos>
+  <sequence>8</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:27.330622600Z</date>
+  <millis>1617397647330</millis>
+  <nanos>622600</nanos>
+  <sequence>9</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:31.007445900Z</date>
+  <millis>1617397651007</millis>
+  <nanos>445900</nanos>
+  <sequence>10</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:32.674961200Z</date>
+  <millis>1617397652674</millis>
+  <nanos>961200</nanos>
+  <sequence>11</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:35.266716800Z</date>
+  <millis>1617397655266</millis>
+  <nanos>716800</nanos>
+  <sequence>12</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:37.255208700Z</date>
+  <millis>1617397657255</millis>
+  <nanos>208700</nanos>
+  <sequence>13</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:39.490370900Z</date>
+  <millis>1617397659490</millis>
+  <nanos>370900</nanos>
+  <sequence>14</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:41.869271100Z</date>
+  <millis>1617397661869</millis>
+  <nanos>271100</nanos>
+  <sequence>15</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:53.348466200Z</date>
+  <millis>1617397673348</millis>
+  <nanos>466200</nanos>
+  <sequence>16</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:56.641853700Z</date>
+  <millis>1617397676641</millis>
+  <nanos>853700</nanos>
+  <sequence>17</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:07:58.610062600Z</date>
+  <millis>1617397678610</millis>
+  <nanos>62600</nanos>
+  <sequence>18</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:01.162197300Z</date>
+  <millis>1617397681162</millis>
+  <nanos>197300</nanos>
+  <sequence>19</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:04.082102800Z</date>
+  <millis>1617397684082</millis>
+  <nanos>102800</nanos>
+  <sequence>20</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:07.490468Z</date>
+  <millis>1617397687490</millis>
+  <nanos>468000</nanos>
+  <sequence>21</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>WARNING</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur n'a rien saisi.</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:10.882705800Z</date>
+  <millis>1617397690882</millis>
+  <nanos>705800</nanos>
+  <sequence>22</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:16.122578400Z</date>
+  <millis>1617397696122</millis>
+  <nanos>578400</nanos>
+  <sequence>23</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:18.058121600Z</date>
+  <millis>1617397698058</millis>
+  <nanos>121600</nanos>
+  <sequence>24</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:21.049257400Z</date>
+  <millis>1617397701049</millis>
+  <nanos>257400</nanos>
+  <sequence>25</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:23.171131400Z</date>
+  <millis>1617397703171</millis>
+  <nanos>131400</nanos>
+  <sequence>26</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:28.018873600Z</date>
+  <millis>1617397708018</millis>
+  <nanos>873600</nanos>
+  <sequence>27</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>tamaSelection</method>
+  <thread>1</thread>
+  <message>L'utilisateur a saisi le tama 0</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:28.028846500Z</date>
+  <millis>1617397708028</millis>
+  <nanos>846500</nanos>
+  <sequence>28</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>FINE</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>resultat</method>
+  <thread>1</thread>
+  <message>fin de la partie</message>
+</record>
+<record>
+  <date>2021-04-02T21:08:28.028846500Z</date>
+  <millis>1617397708028</millis>
+  <nanos>846500</nanos>
+  <sequence>29</sequence>
+  <logger>class tamagoshi.jeu.TamaGameWithLambda</logger>
+  <level>INFO</level>
+  <class>tamagoshi.jeu.TamaGame</class>
+  <method>sauvegardeScores</method>
+  <thread>1</thread>
+  <message>Sauvegarde du score.</message>
+</record>
+</log>
