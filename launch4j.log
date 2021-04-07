@@ -1,0 +1,221 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Maxim\Desktop\Tamagoshi_console\.
+Java min ver:	1.007.000
+Java max ver:	1.011.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.10
+Ignore:		1.011.000_010
+Runtime used:	1.007.000_080 (64-bit)
+Main class:	tamagoshi.jeu.TamaGame
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe" tamagoshi.jeu.TamaGame
+Args length:	98/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Maxim\Desktop\Tamagoshi_console\.
+Java min ver:	1.007.000
+Java max ver:	1.011.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.10
+Ignore:		1.011.000_010
+Runtime used:	1.007.000_080 (64-bit)
+Main class:	tamagoshi.jeu.TamaGame
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe" tamagoshi.jeu.TamaGame
+Args length:	98/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Maxim\Desktop\Tamagoshi_console\.
+Java min ver:	1.007.000
+Java max ver:	1.011.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.10
+Ignore:		1.011.000_010
+Runtime used:	1.007.000_080 (64-bit)
+Main class:	tamagoshi.jeu.TamaGame
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe" tamagoshi.jeu.TamaGame
+Args length:	98/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Maxim\Desktop\Tamagoshi_console\.
+Java min ver:	1.007.000
+Java max ver:	1.011.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.10
+Ignore:		1.011.000_010
+Runtime used:	1.007.000_080 (64-bit)
+Main class:	tamagoshi.jeu.TamaGame
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe" tamagoshi.jeu.TamaGame
+Args length:	98/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Maxim\Desktop\Tamagoshi_console\.
+Java min ver:	1.007.000
+Java max ver:	1.011.000
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.10
+Ignore:		1.011.000_010
+Runtime used:	1.007.000_080 (64-bit)
+Main class:	tamagoshi.jeu.TamaGame
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe" tamagoshi.jeu.TamaGame
+Args length:	98/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Maxim\Desktop\Tamagoshi_console\.
+Java min ver:	1.007.000
+Java max ver:	1.015.000
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000_080
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.10
+Check launcher:	C:\Program Files\Java\jdk-11.0.10\bin\javaw.exe (OK)
+Match:		1.011.000_010
+Runtime used:	1.011.000_010 (64-bit)
+Main class:	tamagoshi.jeu.TamaGame
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-11.0.10\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe" tamagoshi.jeu.TamaGame
+Args length:	98/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Maxim\Desktop\Tamagoshi_console\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_80
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.10
+Check launcher:	C:\Program Files\Java\jdk-11.0.10\bin\javaw.exe (OK)
+Match:		1.011.000_010
+Runtime used:	1.011.000_010 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-11.0.10\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Maxim\Desktop\Tamagoshi_console\Tamagoshi_console.exe"
+Args length:	69/32768 chars
+Exit code:	0
