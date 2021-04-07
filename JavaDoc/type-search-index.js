@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"tamagoshi.tamagoshis","l":"GrosJoueur"},{"p":"tamagoshi.tamagoshis","l":"GrosMangeur"},{"p":"tamagoshi.tamagoshis","l":"Lunatique"},{"p":"tamagoshi.jeu","l":"TamaGame"},{"p":"tamagoshi.tamagoshis","l":"Tamagoshi"},{"p":"tamagoshi.util","l":"Utilisateur"}]
