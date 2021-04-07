@@ -35,6 +35,7 @@ public class TamaGame {
 	/** build the game */
 	private TamaGame() {
 		allTamagoshis = new ArrayList<Tamagoshi>();
+		logger.setLevel(Level.ALL);
 		aliveTamagoshis = new ArrayList<Tamagoshi>();
 		initialisation();
 	}
@@ -66,8 +67,7 @@ public class TamaGame {
 			}
 
 		}
-//		aliveTamagoshis = (List<Tamagoshi>) allTamagoshis.clone();
-		// ou encore pour le même résultat
+
 		 aliveTamagoshis = new ArrayList<Tamagoshi>(allTamagoshis);
 	}
 
@@ -77,6 +77,7 @@ public class TamaGame {
 	 * @param question the question to ask to the user
 	 * @return the selected instance
 	 */
+
 	private Tamagoshi tamaSelection(String question) {
 		System.out.println(question);
 		int index = 0;
@@ -85,9 +86,8 @@ public class TamaGame {
 		}
 		System.out.print("\n\tEntrez un choix : ");
 		try {
-			String saisie = Utilisateur.saisieClavier();
 			index = Integer.parseInt(Utilisateur.saisieClavier());
-			logger.info("L'utilisateur a saisi le tama "+ saisie);
+			logger.info("L'utilisateur a saisi le tama "+ index);
 		} catch (NumberFormatException e) {
 			System.out.println("Il faut saisir un nombre !");
 			logger.warning("L'utilisateur n'a rien saisi.");
